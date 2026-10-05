@@ -27,4 +27,4 @@ I treat lookahead bias as a bug: functions that read market data take an explici
 
 Python (pandas, NumPy, SciPy, statsmodels, arch, FastAPI, pytest) · SQL · React · LaTeX
 
-[tanishkyadav.me](https://www.tanishkyadav.me) · [SSRN](https://ssrn.com/author=8715020) · [Google Scholar](https://scholar.google.com/citations?user=XKyUOj0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/tanishkyadav) · ty2766@nyu.edu
+[tanishkyadav.me](https://www.tanishkyadav.me) · [SSRN](https://ssrn.com/author=8715020) · [Google Scholar](https://scholar.google.com/citations?user=XKyUOj0AAAAJ) · [LinkedIn](https://www.linkedin.com/in/tanishkyadav) · tanishkyadav@nyu.edu
