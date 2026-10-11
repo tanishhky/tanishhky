@@ -1,6 +1,6 @@
 ### Tanishk Yadav
 
-Quantitative researcher. MS Financial Engineering at NYU Tandon, graduating May 2027.
+Quantitative researcher. MS Financial Engineering at New York University, graduating May 2027.
 
 I treat lookahead bias as a bug: functions that read market data take an explicit as-of timestamp, and the trading repos test that injecting future data leaves past decisions unchanged. Then I report what the data says, nulls and retractions included.
 
