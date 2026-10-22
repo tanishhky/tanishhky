@@ -8,8 +8,8 @@ I treat lookahead bias as a bug: functions that read market data take an explici
 
 | Paper | Status |
 |---|---|
-| [Concentrated Sectors Transmit Less](https://www.tanishkyadav.me/research/concentrated-sectors): time-varying connectedness across S&P 500 sectors, 2018 to 2026 | SSRN preprint |
-| [Volatility-Managed Factor Portfolios](https://www.tanishkyadav.me/research/volatility-managed-factors): Fama-French five factors and momentum, 1963 to 2026 | SSRN preprint |
+| [Too Big to Co-Move](https://www.tanishkyadav.me/research/concentrated-sectors): mega-cap concentration and sector co-movement in the S&P 500 and ten other markets, 2018 to 2026 | SSRN preprint |
+| [Calm Months, Crash Months](https://www.tanishkyadav.me/research/volatility-managed-factors): why volatility management pays for momentum and not the market, in real time, 1973 to 2026 | SSRN preprint |
 | [Multi-Scale Regime Detection](https://www.tanishkyadav.me/research/regime-detection): four orthogonal stress detectors for drawdown control | SSRN preprint |
 | [RateWalk](https://www.tanishkyadav.me/research/ratewalk): forecasting Fed rate decisions with a shrunk Markov chain | Working paper |
 | [VolEdge](https://www.tanishkyadav.me/research/voledge): the variance risk premium from model-free risk-neutral moments | Working paper |
